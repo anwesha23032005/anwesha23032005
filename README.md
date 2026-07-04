@@ -53,7 +53,6 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-111827?style=for-the-badge)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=anwesha23032005&theme=tokyonight)
