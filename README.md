@@ -16,8 +16,7 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 
 ---
 
-## 💻 Programming Skills
-
+##💻 Tech Stack:
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
@@ -51,9 +50,3 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
