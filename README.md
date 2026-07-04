@@ -50,3 +50,13 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anwesha23032005&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha23032005&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anwesha23032005&theme=tokyonight)
+
+---
