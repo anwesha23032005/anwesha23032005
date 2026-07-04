@@ -12,7 +12,7 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 - 💻 Interested in **Backend Development, AI Applications, and Machine Learning**
 - 📚 Practicing **Data Structures & Algorithms**
 - 🤝 Open to collaborating on **Java, AI, and Full-Stack projects**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **anweshadey2005@gmail.com**
 
 ---
 
@@ -51,38 +51,6 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
----
-
-## 🧠 Technical Skills
-
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- Database Management Systems (DBMS)
-- Operating Systems
-- Computer Networks
-
----
-
-## 🤖 Practical AI/ML Skills
-
-- Data Science
-- Machine Learning
-- Computer Vision
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anwesha23032005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha23032005&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anwesha23032005&theme=tokyonight)
 
 ---
 
