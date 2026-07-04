@@ -35,6 +35,7 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Frameworks & Tools
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
@@ -50,6 +51,9 @@ I'm passionate about Software Development and Artificial Intelligence. I enjoy b
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111827?style=for-the-badge)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=anwesha23032005&theme=tokyonight)
